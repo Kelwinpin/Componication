@@ -15,6 +15,7 @@ const styles = stylex.create({
         backgroundColor: "#0247c0",
         border:"none",
         cursor:"pointer",
+        borderRadius:"4px",
     },
     outlined:{
         fontSize:"20px",
@@ -29,7 +30,7 @@ const styles = stylex.create({
         cursor:"pointer",
     },
     small:{
-        width:"60px",
+        width:"80px",
     },
     medium:{
         width:"120px"

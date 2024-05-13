@@ -14,6 +14,12 @@ export default {
                 type: "inline-radio",
             },
         },
+        size: {
+            control: {                
+                options: ["small", "medium", "large"],
+                type: "inline-radio",
+            },
+        },
     },
 } as Meta<ButttonProps>;
 
